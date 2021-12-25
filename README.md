@@ -19,6 +19,7 @@
 ### HTML and CSS - Lecture 0 - CS50's Web Programming with Python and JavaScript 2020
 [Lecture 0 - Youtube](https://www.youtube.com/watch?v=Nn7EX3zkGUo&list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu&index=2)
 * HTML
+  - [Preview]()
 * CSS
 * Responsive Design
 * Bootstrap

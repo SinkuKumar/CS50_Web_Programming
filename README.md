@@ -1,4 +1,4 @@
-# CS50 Practice
+# CS50 Web Programming Practice
 * This repository contains practice codes for CS50 Web Development 2020. 
 [CS50 2020 | YouTube](https://www.youtube.com/watch?v=Nn7EX3zkGUo&list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
 
